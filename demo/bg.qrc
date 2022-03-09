@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>C:/Users/ASUS/Pictures/bat.jpg</file>
+  </qresource>
+</RCC>
